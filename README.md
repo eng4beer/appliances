@@ -4,4 +4,6 @@ This repo holds code to automate the creation of appliances from a number of pro
 
 ## What works
 
-At the moment, Ansible Tower. However there is still a ton of work that needs to be done to produce something polished. 
+At the moment, Ansible Tower and Red Hat Satellite. 
+
+However there is still a ton of work that needs to be done to produce something polished. 
