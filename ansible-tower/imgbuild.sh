@@ -39,4 +39,4 @@ echo "#######################"
 echo "# Copy to destination #"
 echo "#######################"
 cp $image $destination_folder/$destination_image ; sync
-chmod -R 777 ansible-tower/
+chmod -R 777 $destination_folder/
